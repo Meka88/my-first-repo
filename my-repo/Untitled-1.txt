@@ -1,0 +1,47 @@
+<!-- first element in our HTML file -->
+<!DOCTYPE html>
+<!-- html element - ENTIRE CONTENT OF YOUR PAGE -->
+<html>
+  <head>
+    <!-- everything inside head element -->
+    <meta charset="UTF-8" />
+    <title>My First HTML</title>
+  </head>
+  <body>
+    <!-- everything you want to show to users -->
+    <h1 class="heading">Welcome to Clubhouse!</h1>
+    <p class="definition">
+      <!-- strong element: bolder text -->
+      <strong>Clubhouse</strong> is an invitation-only networking app.
+    </p>
+    <!-- unordered list: puts dots in front of list items -->
+    <ul>
+      <!-- list elements -->
+      <li>Home</li>
+      <li>Projects</li>
+      <li>About</li>
+    </ul>
+    <!-- ordered list: puts numers in front of list items -->
+    <ol>
+      <li>Home</li>
+      <li>Projects</li>
+      <li>About</li>
+    </ol>
+    <!-- wrong -->
+    <!-- <img></img> -->
+    <img src="horse.jpeg" alt="my horse" />
+
+    <!-- div element: used to group -->
+    <element>
+
+
+    <section>
+       <h1>my first blog</h1>
+       <p>
+       gdfufncjesdcmncfkjsfnrhfhrbdjfhbvndlvj
+       nhbggdcgxddfcfjnbhj
+       jknfgd
+       <h2>my second blog</h2>
+       
+  </body>
+</html>

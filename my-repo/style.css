@@ -1,0 +1,45 @@
+/* # stands for ID */
+/*
+#copyright,
+.header,
+p,
+nav {
+  color: blue;
+} */
+body,
+html {
+  color: black;
+  /* background-color: rgb(0, 211, 50); */
+  /* background-color: rgb(0, 10, 50); */
+  /* background-color: #000000; */
+  /* background-color: rgba(0, 211, 50, 0.3); */
+  text-align: center;
+  background-image: url('wallpaper.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: right;
+}
+.header {
+  background-color: rgb(255, 136, 136);
+  color: white;
+}
+.heading {
+  font-style: italic;
+  /*  horizontal, vertical, blur-amount, color */
+  text-shadow: 20px 20px 10px black;
+}
+.horse-parent {
+  width: 1000px;
+  /* 240px - horse image width */
+  height: 600px;
+}
+#my-horse {
+  height: 600px;
+  width: 60%;
+  opacity: 0.1;
+}
+a {
+  text-decoration: none;
+  color: black;
+  opacity: 1;
+}
